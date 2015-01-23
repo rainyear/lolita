@@ -1,8 +1,7 @@
-# note lite. (Lolita :P)
+### note lite. (Lolita :P)
 
----
 
-1. [科学上网](issues/1)
+1. [科学上网](https://github.com/rainy-im/lolita/issues/1)
 
 
 ---
