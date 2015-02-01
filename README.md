@@ -2,6 +2,7 @@
 
 
 1. [科学上网](https://github.com/rainy-im/lolita/issues/1)
+2. [Intel HAXM 为 Android 模拟器加速](https://github.com/rainy-im/lolita/issues/2)
 
 
 ---
