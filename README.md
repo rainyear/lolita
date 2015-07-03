@@ -6,6 +6,7 @@
 3. [JAVA_HOME does not point to the JDK](https://github.com/rainyear/lolita/issues/3)
 5. [Vim as Golang IDE](https://github.com/rainyear/lolita/issues/5)
 6. [Mongodb & Go 项目部署](https://github.com/rainyear/lolita/issues/6)
+7. [Homebrew fk my opencv up?](https://github.com/rainyear/lolita/issues/7)
 
 
 ---
