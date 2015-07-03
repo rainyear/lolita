@@ -7,6 +7,7 @@
 5. [Vim as Golang IDE](https://github.com/rainyear/lolita/issues/5)
 6. [Mongodb & Go 项目部署](https://github.com/rainyear/lolita/issues/6)
 7. [Homebrew fk my opencv up?](https://github.com/rainyear/lolita/issues/7)
+8. [Hand posture detection with OpenCV](https://github.com/rainyear/lolita/issues/8)
 
 
 ---
