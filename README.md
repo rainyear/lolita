@@ -16,4 +16,4 @@ _Using github's issue system as lightweight notes &amp; blog._
 
 ---
 
-- [ ] Add **Weekly Tech Report** Tag.
+- [X] Add **Weekly Tech Report** Tag: _每周技术学习汇报，至少详细总结3篇技术文章_
