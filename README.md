@@ -13,3 +13,7 @@
 ---
 
 _Using github's issue system as lightweight notes &amp; blog._
+
+---
+
+- [ ] Add **Weekly Tech Report** Tag.
