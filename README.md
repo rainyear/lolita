@@ -16,3 +16,5 @@
 ---
 
 - [X] Add **[Weekly Tech Report](https://github.com/rainyear/lolita/labels/WTR)** Tag: _每周技术学习汇报，至少详细总结3篇技术文章_
+
+1. :date: 2015/07/12: [Weekly Tech Report #1](https://github.com/rainyear/lolita/issues/9)
