@@ -19,3 +19,4 @@
 
 1. :date: 2015/07/12: [Weekly Tech Report #1](https://github.com/rainyear/lolita/issues/9)
 2. :date: 2015/07/19: [Weekly Tech Report #2](https://github.com/rainyear/lolita/issues/11)
+3. :date: 2015/07/26: [Weekly Tech Report #3](https://github.com/rainyear/lolita/issues/12)
