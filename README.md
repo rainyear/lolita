@@ -13,6 +13,9 @@
 9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://github.com/rainyear/lolita/issues/10)
 10. [Effective Go 摘记](https://github.com/rainyear/lolita/issues/16)
 
+---
+
+:bookmark: [Tags](https://github.com/rainyear/lolita/labels)
 
 ---
 
