@@ -11,6 +11,7 @@
 7. [Homebrew fk my opencv up?](https://github.com/rainyear/lolita/issues/7)
 8. [Hand posture detection with OpenCV](https://github.com/rainyear/lolita/issues/8)
 9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://github.com/rainyear/lolita/issues/10)
+10. [Effective Go 摘记](https://github.com/rainyear/lolita/issues/16)
 
 
 ---
