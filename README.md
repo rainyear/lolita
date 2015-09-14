@@ -26,3 +26,6 @@
 3. :date: 2015/07/26: [Weekly Tech Report #3](https://github.com/rainyear/lolita/issues/12)
 4. :date: 2015/08/23: [Weekly Tech Report #4](https://github.com/rainyear/lolita/issues/13)
 5. :date: 2015/09/06: [Weekly Tech Report #5](https://github.com/rainyear/lolita/issues/14)
+
+
+> 实验紧迫，15/09/14 起暂时停刊 :bee:
