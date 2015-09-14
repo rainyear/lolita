@@ -12,6 +12,7 @@
 8. [Hand posture detection with OpenCV](https://github.com/rainyear/lolita/issues/8)
 9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://github.com/rainyear/lolita/issues/10)
 10. [Effective Go 摘记](https://github.com/rainyear/lolita/issues/16)
+11. [install OpenCV 3.0 with Python 3.4 on OSX & Ubuntu](https://github.com/rainyear/lolita/issues/18)
 
 ---
 
