@@ -13,6 +13,7 @@
 9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://github.com/rainyear/lolita/issues/10)
 10. [Effective Go 摘记](https://github.com/rainyear/lolita/issues/16)
 11. [Install OpenCV 3.0 with Python 3.4 on OSX & Ubuntu](https://github.com/rainyear/lolita/issues/18)
+12. [为不同域名下的Git远程仓库分配不同的SSH key](https://github.com/rainyear/lolita/issues/19)
 
 ---
 
