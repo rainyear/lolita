@@ -1,5 +1,7 @@
 # [Notes lite](https://github.com/rainyear/lolita/issues)
 
+[![Join the chat at https://gitter.im/rainyear/lolita](https://badges.gitter.im/rainyear/lolita.svg)](https://gitter.im/rainyear/lolita?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > _Using github's issue system as lightweight notes &amp; blog._
 
 
