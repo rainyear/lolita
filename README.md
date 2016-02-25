@@ -18,6 +18,7 @@
 12. [为不同域名下的Git远程仓库分配不同的SSH key](https://git.io/lo19)
 13. [pip 镜像设定](https://git.io/lo20)
 14. [自定义 GitHub 短网址服务](https://git.io/lo22)
+15. [Safari 的开发者模式](https://git.io/lo23)
 
 ---
 
