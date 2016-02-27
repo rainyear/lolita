@@ -20,6 +20,7 @@
 14. [自定义 GitHub 短网址服务](https://git.io/lo22)
 15. [Safari 的开发者模式](https://git.io/lo23)
 16. [Ghost + LaTex](https://git.io/lo24)
+17. [为Jupyter添加Vim绑定](https://git.io/lo25)
 
 ---
 
