@@ -5,22 +5,22 @@
 > _Using github's issue system as lightweight notes &amp; blog._
 
 
-1. [科学上网](https://git.io/lo01)
-2. [Intel HAXM 为 Android 模拟器加速](https://git.io/lo02)
-3. [JAVA_HOME does not point to the JDK](https://git.io/lo03)
-5. [Vim as Golang IDE](https://git.io/lo05)
-6. [Mongodb & Go 项目部署](https://git.io/lo06)
-7. [Homebrew fk my opencv up?](https://git.io/lo07)
-8. [Hand posture detection with OpenCV](https://git.io/lo08)
-9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://git.io/lo10)
-10. [Effective Go 摘记](https://git.io/lo16)
-11. [Install OpenCV 3.0 with Python 3.4 on OSX & Ubuntu](https://git.io/lo18)
-12. [为不同域名下的Git远程仓库分配不同的SSH key](https://git.io/lo19)
-13. [pip 镜像设定](https://git.io/lo20)
-14. [自定义 GitHub 短网址服务](https://git.io/lo22)
-15. [Safari 的开发者模式](https://git.io/lo23)
-16. [Ghost + LaTex](https://git.io/lo24)
 17. [为Jupyter添加Vim绑定](https://git.io/lo25)
+16. [Ghost + LaTex](https://git.io/lo24)
+15. [Safari 的开发者模式](https://git.io/lo23)
+14. [自定义 GitHub 短网址服务](https://git.io/lo22)
+13. [pip 镜像设定](https://git.io/lo20)
+12. [为不同域名下的Git远程仓库分配不同的SSH key](https://git.io/lo19)
+11. [Install OpenCV 3.0 with Python 3.4 on OSX & Ubuntu](https://git.io/lo18)
+10. [Effective Go 摘记](https://git.io/lo16)
+9. [Install Deepdream(Caffe-python) on Mac OS X Yosemite 10.10.3](https://git.io/lo10)
+8. [Hand posture detection with OpenCV](https://git.io/lo08)
+7. [Homebrew fk my opencv up?](https://git.io/lo07)
+6. [Mongodb & Go 项目部署](https://git.io/lo06)
+5. [Vim as Golang IDE](https://git.io/lo05)
+3. [JAVA_HOME does not point to the JDK](https://git.io/lo03)
+2. [Intel HAXM 为 Android 模拟器加速](https://git.io/lo02)
+1. [科学上网](https://git.io/lo01)
 
 ---
 
