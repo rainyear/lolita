@@ -4,7 +4,7 @@
 
 > _Using github's issue system as lightweight notes &amp; blog._
 
-
+18. [用 conda 管理 Python 开发环境](https://git.io/lo26)
 17. [为Jupyter添加Vim绑定](https://git.io/lo25)
 16. [Ghost + LaTex](https://git.io/lo24)
 15. [Safari 的开发者模式](https://git.io/lo23)
