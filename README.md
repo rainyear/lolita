@@ -25,7 +25,7 @@
 
 ---
 
-:bookmark: [Tags](https://github.com/rainyear/lolita/labels)
+:bookmark: [Tags](https://github.com/rainyear/lolita/labels?sort=count-desc)
 
 ---
 
