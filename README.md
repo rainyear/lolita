@@ -4,6 +4,7 @@
 
 > _Using github's issue system as lightweight notes &amp; blog._
 
+19. [快速制作一个有创意的捐赠页面](https://git.io/lo27)
 18. [用 conda 管理 Python 开发环境](https://git.io/lo26)
 17. [为Jupyter添加Vim绑定](https://git.io/lo25)
 16. [Ghost + LaTex](https://git.io/lo24)
