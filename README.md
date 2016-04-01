@@ -29,6 +29,7 @@
 :bookmark: [Tags](https://github.com/rainyear/lolita/labels?sort=count-desc)
 
 ---
+<!--
 
 - [X] Add **[Weekly Tech Report](https://github.com/rainyear/lolita/labels/WTR)** Tag: _每周技术学习汇报，至少详细总结3篇技术文章_
 
@@ -40,3 +41,4 @@
 
 
 > 实验紧迫，15/09/14 起暂时停刊 :bee:
+-->
