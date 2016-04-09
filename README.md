@@ -4,6 +4,7 @@
 
 > _Using github's issue system as lightweight notes &amp; blog._
 
+21. [在 Jupyter 中使用 Graphviz](https://git.io/lo30)
 20. [Tornado+MongoDB 实现微信公众号自动回复](https://git.io/lo28)
 19. [快速制作一个有创意的捐赠页面](https://git.io/lo27)
 18. [用 conda 管理 Python 开发环境](https://git.io/lo26)
