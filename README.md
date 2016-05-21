@@ -4,6 +4,7 @@
 
 > _Using github's issue system as lightweight notes &amp; blog._
 
+23. [sed & grep 批量替换多个文件中的文字](https://git.io/lo32)
 22. [Let’s Encrypt + Nginx + Tornado 开启 HTTPS ](https://git.io/lo31)
 21. [在 Jupyter 中使用 Graphviz](https://git.io/lo30)
 20. [Tornado+MongoDB 实现微信公众号自动回复](https://git.io/lo28)
