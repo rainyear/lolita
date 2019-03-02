@@ -1,8 +1,6 @@
 # [Notes lite](https://github.com/rainyear/lolita/issues)
 
-[![Join the chat at https://gitter.im/rainyear/lolita](https://badges.gitter.im/rainyear/lolita.svg)](https://gitter.im/rainyear/lolita?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-> _Using github's issue system as lightweight notes &amp; blog._
+> _Quick notes & reminders_
 
 23. [sed & grep 批量替换多个文件中的文字](https://git.io/lo32)
 22. [Let’s Encrypt + Nginx + Tornado 开启 HTTPS ](https://git.io/lo31)
@@ -32,16 +30,3 @@
 :bookmark: [Tags](https://github.com/rainyear/lolita/labels?sort=count-desc)
 
 ---
-<!--
-
-- [X] Add **[Weekly Tech Report](https://github.com/rainyear/lolita/labels/WTR)** Tag: _每周技术学习汇报，至少详细总结3篇技术文章_
-
-1. :date: 2015/07/12: [Weekly Tech Report #1](https://github.com/rainyear/lolita/issues/9)
-2. :date: 2015/07/19: [Weekly Tech Report #2](https://github.com/rainyear/lolita/issues/11)
-3. :date: 2015/07/26: [Weekly Tech Report #3](https://github.com/rainyear/lolita/issues/12)
-4. :date: 2015/08/23: [Weekly Tech Report #4](https://github.com/rainyear/lolita/issues/13)
-5. :date: 2015/09/06: [Weekly Tech Report #5](https://github.com/rainyear/lolita/issues/14)
-
-
-> 实验紧迫，15/09/14 起暂时停刊 :bee:
--->
